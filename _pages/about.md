@@ -40,7 +40,7 @@ redirect_from:
 
 # 📝 论文专利
 
-### 英文
+### 期刊论文
 ---
 
 - Si Yang, Lihua Zheng, Huijun Yang, Man Zhang, Tingting Wu, Shi Sun, Federico Tomasetto, Minjuan Wang*. A synthetic datasets based instance segmentation network for High-throughput soybean pods phenotype investigation[J]. Expert Systems with Applications, 2022, 192: 116403. (JCR 1 区，中科院 1 区 Top，影响因子 8.6644)
@@ -57,7 +57,7 @@ quality[J]. Plant Growth Regulation, 2020, 92(2): 319-331. (JCR 2 区，中科�
 - Si Yang, Peng He, Laura Zabawa, Xieyuanli Chen, Lihua Zheng, Minjuan Wang, Lasse Klingbeil, Heiner Kuhlmann. Multi-view depth image based high quality 3D plant organ instance segmentation[J].
 (under review)
 
-### 会议
+### 会议论文
 ---
 
 - Si Yang, Lihua Zheng, Xieyuanli Chen, Laura Zabawa, Man Zhang, Minjuan Wang*. Transfer Learning from Synthetic In-vitro Soybean Pods Dataset for In-situ Segmentation of On-branch Soybean Pod[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. (CCF A workshop)
@@ -92,7 +92,7 @@ Plant Root Image Restoration Based on GAN. IFAC-PapersOnLine, 52(30), 219-224. (
 
 # 🏛️ 学术会议
 - *2022*, 第七届国际植物表型大会 (IPPS 2022), 荷兰瓦赫宁根, 海报+全英文口头汇报
-- *2022*, DGK PhD Seminar Engineering Geodesy Division, 德国波恩
+- *2022*, DGK PhD Seminar Engineering Geodesy Division, 德国克劳斯塔尔
 - *2022*, 第三届国际研讨会和挑战-农业视觉：计算机视觉在农业中的挑战与机遇 (CVPR2022), 线上, 论文
 - *2022*, 可持续作物生产数字技术国际会议 (DIGICROP 2022), 德国波恩
 - *2021*, 第七届植物表型和农业计算机视觉研讨会 (CVPPA@ICCV 2021), 线上, 论文
