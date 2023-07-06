@@ -35,7 +35,7 @@ redirect_from:
 - *2021.12 - 2022.12*, <a href="https://www.uni-bonn.de/en/"><img class="svg" src="images/1200px-Universität_Bonn.svg.png" width="23pt"></a>  波恩大学 大地测量与地理信息系, 德国, CSC博士联合培养
 - *2018.09 - 2023.07*, <a href="https://www.cau.edu.cn/"><img class="svg" src="images/1200px-CAU_Logo.svg.png" width="23pt"></a> 中国农业大学 信息与电气工程学院, 北京, 博士
 - *2016.09 - 2018.06*, <a href="https://www.nwafu.edu.cn/"><img class="svg" src="images/Northwest_A&F_University.svg.png" width="20pt"></a> 西北农林科技大学 信息工程学院, 陕西杨凌, 硕士
- 
+- *2012.09 - 2016.06*, <a href="https://www.nwafu.edu.cn/"><img class="svg" src="images/hbnu.svg.png" width="20pt"></a> 湖北师范大学 计算机与信息工程学院, 湖北黄石, 学士 
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
