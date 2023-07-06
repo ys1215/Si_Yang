@@ -43,13 +43,12 @@ redirect_from:
 ### 英文
 ---
 
-- Si Yang, Lihua Zheng, Huijun Yang, Man Zhang, Tingting Wu, Shi Sun, Federico Tomasetto, Minjuan Wang*. A synthetic datasets based instance segmentation network for High-throughput soybean pods phenotype investigation[J]. Expert Systems with Applications, 2022, 192: 116403. (JCR1 区，中科院 1 区 Top，影响因子 8.6644)
-- Si Yang, Lihua Zheng, Peng He, Tingting Wu, Shi Sun, Minjuan Wang. High-throughput soybean seeds phenotyping with convolutional neural networks and transfer learning[J]. Plant Methods, 2021, 17(1): 1-17. (JCR1 区，中科院 2 区，影响因子 5.8271)
-- Si Yang, Lihua Zheng, Wanlin Gao, et al. An Efficient Processing Approach for Colored Point Cloud-Based High-Throughput Seedling Phenotyping[J]. Remote Sensing, 2020, 12(10): 1540. (JCR1
-区，中科院 2 区 Top，影响因子 5.3493)
-- Yu Zhang, Mengliu Wu, Jinsong Li, Si Yang, et al., Automatic non-destructive multiple lettuce traits prediction based on DeepLabV3+[J]. Journal of Food Measurement and Characterization (2022): 1-17. (JCR3 区，中科院 3 区，影响因子 3.0059)
+- Si Yang, Lihua Zheng, Huijun Yang, Man Zhang, Tingting Wu, Shi Sun, Federico Tomasetto, Minjuan Wang*. A synthetic datasets based instance segmentation network for High-throughput soybean pods phenotype investigation[J]. Expert Systems with Applications, 2022, 192: 116403. (JCR 1 区，中科院 1 区 Top，影响因子 8.6644)
+- Si Yang, Lihua Zheng, Peng He, Tingting Wu, Shi Sun, Minjuan Wang. High-throughput soybean seeds phenotyping with convolutional neural networks and transfer learning[J]. Plant Methods, 2021, 17(1): 1-17. (JCR 1 区，中科院 2 区，影响因子 5.8271)
+- Si Yang, Lihua Zheng, Wanlin Gao, et al. An Efficient Processing Approach for Colored Point Cloud-Based High-Throughput Seedling Phenotyping[J]. Remote Sensing, 2020, 12(10): 1540. (JCR 1 区，中科院 2 区 Top，影响因子 5.3493)
+- Yu Zhang, Mengliu Wu, Jinsong Li, Si Yang, et al., Automatic non-destructive multiple lettuce traits prediction based on DeepLabV3+[J]. Journal of Food Measurement and Characterization (2022): 1-17. (JCR 3 区，中科院 3 区，影响因子 3.0059)
 - Xia Hao, Jingdun Jia, Jiaqi Mi, Si Yang, Abdul Mateen Khattak, Lihua Zheng, Wanlin Gao, Minjuan Wang*. An optimization model of light intensity and nitrogen concentration coupled with yield and
-quality[J]. Plant Growth Regulation, 2020, 92(2): 319-331. (JCR2 区，中科院 3 区，影响因子: 3.2418)
+quality[J]. Plant Growth Regulation, 2020, 92(2): 319-331. (JCR 2 区，中科院 3 区，影响因子: 3.2418)
 - 王跃亭,王敏娟,孙石,杨斯,郑立华.基于图像处理和聚类算法的待考种大豆主茎节数统计[J].农业机 械学报,2020,51(12):229-237. (EI)
 - 杨斯,高万林,米家奇,吴梦柳,王敏娟,郑立华.基于RGB-D相机的蔬菜苗群体株高测量方法[J].农业机 械学报,2019,50(S1):128-135. (EI)
 - 杨斯,黄铝文*,张馨*.机器视觉在设施育苗作物生长监测中的研究与应用[J].江苏农业科 学,2019,47(06):179-187.
