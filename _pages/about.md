@@ -49,8 +49,8 @@ redirect_from:
 - Yu Zhang, Mengliu Wu, Jinsong Li, Si Yang, et al., Automatic non-destructive multiple lettuce traits prediction based on DeepLabV3+[J]. Journal of Food Measurement and Characterization (2022): 1-17. (JCR 3 区，中科院 3 区，影响因子 3.0059)
 - Xia Hao, Jingdun Jia, Jiaqi Mi, Si Yang, Abdul Mateen Khattak, Lihua Zheng, Wanlin Gao, Minjuan Wang*. An optimization model of light intensity and nitrogen concentration coupled with yield and
 quality[J]. Plant Growth Regulation, 2020, 92(2): 319-331. (JCR 2 区，中科院 3 区，影响因子: 3.2418)
-- 王跃亭,王敏娟,孙石,杨斯,郑立华.基于图像处理和聚类算法的待考种大豆主茎节数统计[J].农业机 械学报,2020,51(12):229-237. (EI)
-- 杨斯,高万林,米家奇,吴梦柳,王敏娟,郑立华.基于RGB-D相机的蔬菜苗群体株高测量方法[J].农业机 械学报,2019,50(S1):128-135. (EI)
+- 王跃亭,王敏娟,孙石,杨斯,郑立华.基于图像处理和聚类算法的待考种大豆主茎节数统计[J].农业机械学报,2020,51(12):229-237. (EI)
+- 杨斯,高万林,米家奇,吴梦柳,王敏娟,郑立华.基于RGB-D相机的蔬菜苗群体株高测量方法[J].农业机械学报,2019,50(S1):128-135. (EI)
 - 杨斯,黄铝文*,张馨*.机器视觉在设施育苗作物生长监测中的研究与应用[J].江苏农业科 学,2019,47(06):179-187.
 - Si Yang, Lihua Zheng, Tingting Wu, Shi Sun, Man Zhang, Minzan Li, Minjuan Wang. RefinePod: towards high throughput soybean pods high-quality segmentation and seed-per-pod estimation for plant breeding[J]. Engineering Applications of Artificial Intelligence, (major revise, JCR 1 区，中科院 2 区 Top，
 影响因子 7.8024)
