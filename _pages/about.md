@@ -52,7 +52,7 @@ quality[J]. Plant Growth Regulation, 2020, 92(2): 319-331. (JCR 2 区，中科�
 - 王跃亭,王敏娟,孙石,杨斯,郑立华.基于图像处理和聚类算法的待考种大豆主茎节数统计[J].农业机 械学报,2020,51(12):229-237. (EI)
 - 杨斯,高万林,米家奇,吴梦柳,王敏娟,郑立华.基于RGB-D相机的蔬菜苗群体株高测量方法[J].农业机 械学报,2019,50(S1):128-135. (EI)
 - 杨斯,黄铝文*,张馨*.机器视觉在设施育苗作物生长监测中的研究与应用[J].江苏农业科 学,2019,47(06):179-187.
-- Si Yang, Lihua Zheng, Tingting Wu, Shi Sun, Man Zhang, Minzan Li, Minjuan Wang. RefinePod: towards high throughput soybean pods high-quality segmentation and seed-per-pod estimation for plant breeding[J]. Engineering Applications of Artificial Intelligence, (major revise, JCR1 区，中科院 2 区 Top，
+- Si Yang, Lihua Zheng, Tingting Wu, Shi Sun, Man Zhang, Minzan Li, Minjuan Wang. RefinePod: towards high throughput soybean pods high-quality segmentation and seed-per-pod estimation for plant breeding[J]. Engineering Applications of Artificial Intelligence, (major revise, JCR 1 区，中科院 2 区 Top，
 影响因子 7.8024)
 - Si Yang, Peng He, Laura Zabawa, Xieyuanli Chen, Lihua Zheng, Minjuan Wang, Lasse Klingbeil, Heiner Kuhlmann. Multi-view depth image based high quality 3D plant organ instance segmentation[J].
 (under review)
@@ -82,11 +82,11 @@ Plant Root Image Restoration Based on GAN. IFAC-PapersOnLine, 52(30), 219-224. (
 # 🏅 荣誉奖项
 - *2021* 获得 中国博士研究生国家奖学金 
 - *2021* 获得 中国留学基金委（CSC）博士生奖学金 
-- *2020-2022* 获得 连续三年中国农业大学一等学业奖学金
+- *2020-2022* 连续三年获得中国农业大学一等学业奖学金
 - *2019* 获得 中国农业大学二等学业奖学金
 - *2019* 获得 智慧农业创新发展国际研讨会-学术会议Excellent Presentation
 - *2017* 获得 西北农林科技大学“优秀研究生”
-- *2016-2017* 获得 西北农林科技大学二等学业奖学金
+- *2016-2017* 连续两年获得西北农林科技大学二等学业奖学金
 
 <span class='anchor' id='-xshy'></span>
 
